@@ -17,3 +17,11 @@ header{
    color: white;
    background-color: lightblue;
 }
+
+.writer{
+    font-size: 15px;
+}
+
+.lightblue-text{
+    color: rgb(13, 185, 248);    
+}
