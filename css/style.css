@@ -1,7 +1,19 @@
 header{
-    background-image: url("");
+    background-color: rgb(33, 125, 247);
+    background-image: url("../img-2/pattern.png");
+    height: 170px;
+}
+
+.logo{
+    width: 10%;
+    text-align: bottom;
 }
 
 .text-yellow{
     background-color: yellow;
+}
+
+.head-row{
+   color: white;
+   background-color: lightblue;
 }
